@@ -58,3 +58,4 @@ _2010 – 2012_
 ## Contacts
 * zaitsev.av.work@gmail.com
 * +7(920)133-70-42
+* skype: dr.shnitsel
