@@ -20,7 +20,7 @@ I want to improve my skills with high loaded systems and get some practice with 
 * Unix, Shell scripting, Administration, Ansible
 * SOLID, Design patterns, Automated tests
 * PostgreSQL, MongoDB, Redis, Elasticsearch, Sharding, Replication
-* Python, Objective C, Apple Swift, Assembler, Delphi
+* Python, Objective C, Apple Swift, C, Assembler, Delphi
 
 ## Education
 
