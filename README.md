@@ -1,6 +1,6 @@
-# Aleksei Zaitsev - senior backend engineer
+# Aleksei Zaitsev - ruby backend engineer
 
-![me](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkKAAAAJDQ3NTQ3ZDBlLTUxN2MtNDJiNS1hMGQ1LTFiNTM4MGRjYjBjYQ.jpg)
+
 
 ## My self-summary
 
@@ -14,11 +14,14 @@ I’ve been involved in more than 50 commercial projects for such well known com
 
 I want to improve my skills with high loaded systems and get some practice with my english.
 
-## Skills
+## Primary skills
 
 * Ruby, Rails
-* Unix, Shell scripting, Administration, Ansible
 * SOLID, Design patterns, Automated tests
+
+## Additional skills
+
+* Unix, Shell scripting, Administration, Ansible
 * PostgreSQL, MongoDB, Redis, Elasticsearch, Sharding, Replication
 * Python, Objective C, Apple Swift, C, Assembler, Delphi
 
