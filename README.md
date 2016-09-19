@@ -1,7 +1,5 @@
 # Aleksei Zaitsev - ruby backend engineer
 
-
-
 ## My self-summary
 
 I am really passioned with technology! I like all kinds of it. From arduino to mobile apps. But most of all I like to write server code. I like to study everything new, right now I am learning Go to write more concurrent and faster apps.
@@ -12,7 +10,7 @@ I’ve been involved in more than 50 commercial projects for such well known com
 
 ## What I’m looking to do next
 
-I want to improve my skills with high loaded systems and get some practice with my english.
+I want to improve my skills with high loaded systems and get some practice with my english. I prefer to mork remotly from Russia, but if it's a good offer I can relocate. I worked remotly more then 5 years and I have good selforganisation skills.
 
 ## Primary skills
 
@@ -23,7 +21,7 @@ I want to improve my skills with high loaded systems and get some practice with 
 
 * Unix, Shell scripting, Administration, Ansible
 * PostgreSQL, MongoDB, Redis, Elasticsearch, Sharding, Replication
-* Python, Objective C, Apple Swift, C, Assembler, Delphi
+* Python, Objective C, Apple Swift, C, Assembler, Delphi, Lua
 
 ## Education
 
@@ -59,6 +57,7 @@ _2010 – 2012_
 
 
 ## Contacts
-* zaitsev.av.work@gmail.com
-* +7(920)133-70-42
+* email: zaitsev.av.work@gmail.com
+* phone: +7(920)133-70-42
 * skype: dr.shnitsel
+* address: 9 May’s street 26-76, 152925 Rybinsk, Russia
