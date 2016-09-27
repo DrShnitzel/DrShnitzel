@@ -4,6 +4,8 @@
 
 I am really passioned with technology! I like all kinds of it. From arduino to mobile apps. But most of all I like to write server code. I like to study everything new, right now I am learning Go to write more concurrent and faster apps.
 
+I am relieble and punctual person. I have never missed a deadline
+
 ## What I’ve worked on
 
 I’ve been involved in more than 50 commercial projects for such well known companies like Nestle, Oral-B, Loreal etc. I wrote ether APIs and 3D iOs games. My most interesting project was social network for Bond Street(Philip and Morris), it has a half million of users, chats, games(with multiplayer), mailing and a lot of updates every single week.
@@ -21,6 +23,7 @@ I want to improve my skills with high loaded systems and get some practice with 
 
 * Unix, Shell scripting, Administration, Ansible
 * PostgreSQL, MongoDB, Redis, Elasticsearch, Sharding, Replication
+* Basic frontend skills, html, css, bootstrap, JS, slim
 * Python, Objective C, Apple Swift, C, Assembler, Delphi, Lua
 
 ## Education
