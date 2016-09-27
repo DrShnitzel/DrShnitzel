@@ -16,7 +16,7 @@ I want to improve my skills with high loaded systems and get some practice with 
 
 ## Primary skills
 
-* Ruby, Rails
+* Ruby, Rails, Sinatra
 * SOLID, Design patterns, Automated tests
 
 ## Additional skills
