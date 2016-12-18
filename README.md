@@ -2,9 +2,9 @@
 
 ## My self-summary
 
-I am really passioned with technology! I like all kinds of it. From arduino to mobile apps. But most of all I like to write server code. I like to study everything new, right now I am learning Go to write more concurrent and faster apps.
+I am experienced backend developer with wore than 5 years of commercial development experience. My main languge is Ruby but I am not limited to it. I have used many other technologies in my projects(Go, Rust, Objective-C, Swift, Python, Delphi, Lua etc.) and always looking forward to try something new.
 
-I am relieble and punctual person. I have never missed a deadline
+I am reliable and punctual person. I have never missed a deadline
 
 ## What I’ve worked on
 
@@ -17,13 +17,13 @@ I want to improve my skills with high loaded systems and get some practice with 
 ## Primary skills
 
 * Ruby, Rails, Sinatra
-* SOLID, Design patterns, Automated tests
+* Clean code, Automated tests
 
 ## Additional skills
 
 * Unix, Shell scripting, Administration, Ansible
 * PostgreSQL, MongoDB, Redis, Elasticsearch, Sharding, Replication
-* Basic frontend skills, html, css, bootstrap, JS, slim
+* Basic frontend skills, html, css, bootstrap, JS, slim, coffee script
 * Python, Objective C, Apple Swift, C, Assembler, Delphi, Lua
 
 ## Education
