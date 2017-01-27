@@ -2,7 +2,7 @@
 
 ## My self-summary
 
-I am experienced backend developer with wore than 5 years of commercial development experience. My main languge is Ruby but I am not limited to it. I have used many other technologies in my projects(Go, Rust, Objective-C, Swift, Python, Delphi, Lua etc.) and always looking forward to try something new.
+I am experienced backend developer with wore than 5 years of commercial development experience. My main language is Ruby but I am not limited to it. I have used many other technologies in my projects(Go, Rust, Objective-C, Swift, Python, Delphi, Lua etc.) and always looking forward to try something new.
 
 I am reliable and punctual person. I have never missed a deadline
 
@@ -12,7 +12,7 @@ I’ve been involved in more than 50 commercial projects for such well known com
 
 ## What I’m looking to do next
 
-I want to improve my skills with high loaded systems and get some practice with my english. I prefer to mork remotly from Russia, but if it's a good offer I can relocate. I worked remotly more then 5 years and I have good selforganisation skills.
+I want to improve my skills with high loaded systems and get some practice with my english. I prefer to work remotely from Russia, but if it's a good offer I can relocate. I worked remotely more then 5 years and I have good self-organisation skills.
 
 ## Primary skills
 
