@@ -12,7 +12,7 @@ I’ve been involved in more than 50 commercial projects for such well known com
 
 ## What I’m looking to do next
 
-I want to improve my skills with high loaded systems and get some practice with my english. I prefer to work remotely from Russia, but if it's a good offer I can relocate. I worked remotely more then 5 years and I have good self-organisation skills.
+I want to improve my skills with high loaded systems and get some practice with my english. I prefer to work remotely from Russia, but if it's a good offer I can relocate. I have worked remotely more then 5 years and I have good self-organisation skills.
 
 ## Primary skills
 
