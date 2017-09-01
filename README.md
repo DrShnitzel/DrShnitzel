@@ -47,7 +47,7 @@ Developing APIs, research, scripting, software architecture design, iOS developm
 #### _customized software developer\freelancer_
 _2010 – Present_
 
-Creating sites, writing decsktop applications, writing plugins, fixing bugs in legacy code, consulting.
+Creating sites, writing desktop applications, writing plugins, fixing bugs in legacy code, consulting.
 
 ## Links
 
