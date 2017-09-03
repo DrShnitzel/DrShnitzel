@@ -2,7 +2,7 @@
 
 ## My self-summary
 
-I am experienced backend developer with more than 6 years of commercial development experience. My main language is Ruby but I am not limited to it. I have used many other technologies in my projects(Go, Rust, Objective-C, Swift, Python, Delphi etc.) and always looking forward to try something new.
+I am experienced backend developer with more than 6 years of commercial development experience. My main language is Ruby but I am not limited to it. I have used many other technologies in my projects(Go, Rust, Objective-C, Swift, Python, Delphi etc.) and always looking forward to trying something new.
 
 I am a reliable and punctual person. I have never missed a deadline
 
