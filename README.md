@@ -4,15 +4,15 @@
 
 I am experienced backend developer with more than 6 years of commercial development experience. My main language is Ruby but I am not limited to it. I have used many other technologies in my projects(Go, Rust, Objective-C, Swift, Python, Delphi etc.) and always looking forward to try something new.
 
-I am reliable and punctual person. I have never missed a deadline
+I am a reliable and punctual person. I have never missed a deadline
 
 ## What I’ve worked on
 
-I’ve been involved in more than 50 commercial projects for such well known companies like Nestle, Oral-B, Loreal etc. I wrote ether APIs and 3D iOs games. My most interesting project was social network for Bond Street(Philip and Morris), it has a half million of users, chats, games(with multiplayer), mailing and a lot of updates every single week.
+I’ve been involved in more than 50 commercial projects for such well-known companies like Nestle, Oral-B, Loreal etc. I wrote either APIs and 3D iOs games. My most interesting project was a social network for Bond Street(Philip and Morris), it has a half million of users, chats, games(with multiplayer), mailing and a lot of updates every single week.
 
 ## What I’m looking to do next
 
-I want to improve my skills with high loaded systems and get some practice with my english. I prefer to work remotely from Russia, but if it's a good offer I can relocate. I have worked remotely more then 6 years and I have good self-organisation skills.
+I want to improve my skills with high loaded systems and get some practice with my English. I prefer to work remotely from Russia, but if it's a good offer I can relocate. I have worked remotely more than 6 years and I have good self-organization skills.
 
 ## Primary skills
 
@@ -23,7 +23,7 @@ I want to improve my skills with high loaded systems and get some practice with 
 
 * Unix, Shell scripting, Administration, Docker, Ansible
 * PostgreSQL, MongoDB, Redis, Elasticsearch, Sharding, Replication
-* Basic frontend skills, html, css, bootstrap, JS, slim, coffee script
+* Basic frontend skills, HTML, CSS, bootstrap, JS, react
 * Go, Python, Objective C, Apple Swift, C, Assembler, Delphi
 
 ## Education
