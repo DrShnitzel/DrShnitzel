@@ -4,13 +4,17 @@
 
 I am experienced backend developer with more than 8 years of commercial development experience. My main language is Ruby but I am not limited to it. I have used many other technologies in my projects(Go, Objective-C, Swift, Python etc.) and always looking forward to trying something new.
 
+I am a problem solver, if something is working slow, or there is a memory leak or something I can dig into it and help colleagues solve the problem. It's because I know how things work on low level, and if I dont't know something I am not afraid to read source code or documentation.
+
+I can solve any technical task, even if I am not familiar with technology. For example once I have written ios 3d game(Objective-C) in 2 months without any prior mobile or 3d expirience.
+
 I like things simple. I prefer not to use huge frameworks with tons of magic. And when I use something, I like to check the source code. When I do not need SQL, I do not use it, sometimes key-value storage or even just a file is all you need. When you understand how it works on a low level it is easy to write robust applications.
 
-My employers like that I am a reliable and punctual person. I have never missed a deadline. Also, I am a problem solver, if something is working slow, or there is a memory leak or something I can dig into it and help colleagues solve the problem.
+My employers like that I am a reliable and punctual person. I have never missed a deadline.
 
 ## What I’ve worked on
 
-I’ve been involved in more than 50 commercial projects for such well-known companies as Nestle, Oral-B, Loreal etc.(On all these projects I was an architect and developer). I wrote either APIs and 3D iOs games. My most interesting project was a social network for Bond Street(Philip and Morris), it has a half million of users, chats, games(with multiplayer), mailing and a lot of updates every single week.
+I’ve been involved in more than 50 commercial projects for such well-known companies as Nestle, Oral-B, Loreal etc.(On all these projects I was an architect and backend developer). My most interesting project was a social network for Bond Street(Philip and Morris), it has a half million of users, chats, games(with multiplayer), mailing and a lot of updates every single week.
 
 At my previous position, I was working on MVNO(mobile virtual network operator) personal cabinets. Interesting thing there I build it on docker and custom deployment system, which allows us to support only one application(but with different designs and on different server infrastructure). Also, it has centralized log system based on the ELK stack.
 
@@ -74,12 +78,12 @@ Developing APIs, research, scripting, software architecture design, iOS developm
 #### _customized software developer\freelancer_
 _2010 – Present_
 
-Creating sites, writing desktop applications, writing plugins, fixing bugs in the legacy code, consulting.
+Creating sites, writing desktop applications, writing plugins, fixing bugs in the legacy code, consulting. (upwork etc)
 
 ## Links
 
 * [Actual version of this CV](https://github.com/DrShnitzel/zaitsev_av_cv)
-* [Source code example](http://git.clean-code.club/drshnitsel/overwatch-api)
+* [Source code example](https://git.clean-code.club/drshnitsel/overwatch-api)
 * [LinkedIn](https://ru.linkedin.com/in/aleksei-zaitsev-6188755b)
 
 ## Contacts
