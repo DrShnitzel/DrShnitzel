@@ -83,7 +83,7 @@ Creating sites, writing desktop applications, writing plugins, fixing bugs in th
 ## Links
 
 * [Actual version of this CV](https://github.com/DrShnitzel/zaitsev_av_cv)
-* [Source code example](https://git.clean-code.club/drshnitsel/overwatch-api)
+* [Source code example](https://git.clean-code.club/drshnitsel/dzen)
 * [LinkedIn](https://ru.linkedin.com/in/aleksei-zaitsev-6188755b)
 
 ## Contacts
