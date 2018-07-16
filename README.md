@@ -46,6 +46,12 @@ Most of my projects were written on more or less the same stack
 * Basic frontend skills, HTML, CSS, bootstrap, JS, react
 * Go, Python, Objective C, Apple Swift, C, Assembler, Delphi
 
+## Source code examples
+
+My pet project. Currencies live chart [dzen](https://git.clean-code.club/drshnitsel/dzen)
+
+You can look my other projects on my self hosted [git service](https://git.clean-code.club/drshnitsel/) and [github](https://github.com/DrShnitzel)
+
 ## Education
 
 Tver State University,
@@ -83,7 +89,6 @@ Creating sites, writing desktop applications, writing plugins, fixing bugs in th
 ## Links
 
 * [Actual version of this CV](https://github.com/DrShnitzel/zaitsev_av_cv)
-* [Source code example](https://git.clean-code.club/drshnitsel/dzen)
 * [LinkedIn](https://ru.linkedin.com/in/aleksei-zaitsev-6188755b)
 
 ## Contacts
