@@ -61,14 +61,14 @@ specialist, Computer Security
 ## Experience
 
 #### _senior backend engineer at Itplus_
-_2018 – Present_
+_2018_
 
 https://fitnessonline.me
 
 Supporting and improving backend for fitness online mobile app. XMPP chat, push notification, miscellaneous bug fixes.
 
 #### _senior backend engineer at Tarifer.ru_
-_2015 – Present_
+_2015 – 2018_
 
 https://tarifer.ru
 
