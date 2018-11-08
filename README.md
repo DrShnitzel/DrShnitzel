@@ -42,7 +42,7 @@ Most of my projects were written on more or less the same stack
 ## Additional skills
 
 * Docker, Kubernetes, Unix, Shell scripting, Administration, Ansible
-* PostgreSQL, MongoDB, Redis, Elasticsearch, Sharding, Replication
+* PostgreSQL, MongoDB, Redis, Elasticsearch, RabbitMQ, Sharding, Replication
 * Basic frontend skills, HTML, CSS, bootstrap, JS, react
 * Go, Python, Objective C, Apple Swift, C, Assembler, Delphi
 
@@ -60,29 +60,29 @@ specialist, Computer Security
 
 ## Experience
 
-#### _senior backend engineer at Itplus_
-_2018_
+### backend engineer at Evrone.com (Aug 2018 - Present)
+
+supporting and improving various apps(https://ruby-challenge.com, https://revo.ru)
+
+### senior backend engineer at Itplus (Jan 2018 - June 2018)
 
 https://fitnessonline.me
 
 Supporting and improving backend for fitness online mobile app. XMPP chat, push notification, miscellaneous bug fixes.
 
-#### _senior backend engineer at Tarifer.ru_
-_2015 – 2018_
+### senior backend engineer at Tarifer.ru (Jul 2015 – Aug 2018)
 
 https://tarifer.ru
 
 Developing APIs, research, scripting, software architecture design, DevOps, parsing web pages.
 
-#### _backend engineer at Salt & Pepper_
-_2012 – 2014_
+### backend engineer at Salt & Pepper (June 2012 – Dec 2014)
 
 https://snp.agency
 
 Developing APIs, research, scripting, software architecture design, iOS development.
 
-#### _customized software developer\freelancer_
-_2010 – Present_
+### customized software developer\freelancer (2010 – Present)
 
 Creating sites, writing desktop applications, writing plugins, fixing bugs in the legacy code, consulting. (upwork etc)
 
