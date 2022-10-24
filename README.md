@@ -1,5 +1,7 @@
 # Aleksei Zaitsev - ruby backend engineer
 
+![](https://pbs.twimg.com/media/FdUqqyrX0AIWOqe?format=jpg&name=small)
+
 ## My self-summary
 
 Hi! I am Aleksei
@@ -8,26 +10,34 @@ For more than 12 years I am helping startups to grow big and handle technical is
 
 I have always been passionate about technology. And have vast knowledge in many IT-related areas.
 
-I am a problem solver if something is working slow, or there is a memory leak or something I can dig into it and help colleagues solve the problem. It's because I know how things work on a low level, and if I don't know something I am not afraid to read source code or documentation.
+I like optimizing things. If something is working slow, or there is a memory leak or something I can dig into it and help colleagues solve the problem. It's because I know how things work on a low level, and if I don't know something I am not afraid to read source code or documentation.
 
-I like things simple. I prefer not to use huge frameworks with tons of magic. And when I use something, I like to check the source code. When I do not need SQL, I do not use it, sometimes key-value storage or even just a file is all you need.
+It's not only related to technologies. I like to optimize working process as well. Fighting cargo cults and reducing the number of unnesseray meetings(or sometimes inroducing something new). Here helps my expirience of working in vast number of different companies from small startups to big tech companies with thousands of workers.
 
-I have been working remotely for more than 12 years and I have good self-organization skills. My employers like that I am a reliable and punctual person. I have never missed a deadline.
+Altough I prefer to work on technical issues I am capable of managing people. I am the one who helps team to communicate and not lose focus when team lead is on vacation. Also I have expirience in orginising people to build awesome products(e.g. opensource Google Authentificator replacement [SOTP Authentificator](https://apps.apple.com/us/app/sotp-authenticator/id1526068202))
+
+I have been working remotely for more than 12 years and I have good self-organization skills. My employers like that I am a reliable and punctual person.
+
+I live in Armenia 🇦🇲. I am foodie, armchair expert, ex cat’s slave. I like games, anime, tech, politics and stonks 🦧💎🤲🚀🌕.
 
 ## Primary skills
 
 - Ruby (Rails\Sinatra)
 - Golang
-- PostgreSQL
+- PostgreSQL, MySQL
 - Redis
-- Kafka, NATS, NATS
-- Docker, K8s
+- Kafka, NATS
+- Docker
 
 ## Additional skills
 
+- MongoDB, elasticsearch
+- K8s, Docker Swarm, Ansible
 - Basic frontend skills, HTML, CSS, bootstrap, JS
 - Basic ML skills
 - Python, C, amd64 linux assembler
+- Unreal Engine
+- Scrum
 
 ## Education
 
@@ -37,15 +47,23 @@ specialist, Computer Security
 
 ## Experience
 
-### senior backend engineer at SberMarket (March 2019 - April 2021)
+### senior backend engineer at Kayzen (June 2022 - present)
 
-SberMarket(https://sbermarket.ru) is the biggest e-grocery in Russia with dozens of millions of customers. Therefore it is pretty high-loaded (it's already 300k+ rpm and rapidly growing).
+I got great expirience working in international team and got the opportunity to take the initiative
 
-What I do here:
+- Solved DB perfomance issues
+- Made tests green again by writing scripts that removed crasing tests, fixed as much tests as possible and skiped failed testes.
+- Automated routene tasks(e.g. updating expired keys for 3d party services)
+
+### senior backend engineer at SberMarket (April 2021 - June 2022)
+
+SberMarket(https://sbermarket.ru) is the biggest e-grocery in Russia with dozens of millions of customers. Therefore it is pretty high-loaded (it's already 500k+ rpm and rapidly growing).
+
+What I did there:
 - Develop payment-related features.
 - Integrating 3d party services.
-- Optimising the performance. I have the role of DB expert in my team and keeping eye on other performance-related issues
-- Optimising work processes. I fight cargo cults and have dramatically reduced the time our team is spending on unnecessary activities.
+- Optimising the performance. I had the role of DB expert in my team and keeping eye on other performance-related issues
+- Optimising work processes. I fought cargo cults and have dramatically reduced the time our team is spending on unnecessary activities.
 
 ### senior backend engineer at VK (March 2019 - April 2021)
 
@@ -87,7 +105,9 @@ Creating sites, writing desktop applications, writing plugins, fixing bugs in th
 - [Actual version of this CV](https://github.com/DrShnitzel/zaitsev_av_cv)
 - [LinkedIn](https://ru.linkedin.com/in/aleksei-zaitsev-6188755b)
 - [github](https://github.com/DrShnitzel)
+- [instagram](https://www.instagram.com/drshnitzel/)
+- [twitter(RUS)](https://twitter.com/drshnitsel)
 
 ## Contacts
 - email: zaitsev.av.work@gmail.com
-- phone: +7(920)133-70-42
+- phone: +374 41133701
