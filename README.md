@@ -96,6 +96,8 @@ https://tarifer.ru
 
 I developed APIs, conducted research, scripting, software architecture design, DevOps, and web page parsing.
 
+created my own docker based deployment system
+
 ### Backend Engineer at Salt & Pepper (June 2012 – Dec 2014)
 
 https://snp.agency
