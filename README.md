@@ -14,7 +14,7 @@ I like optimizing things. If something is working slow, or there is a memory lea
 
 It's not only related to technologies. I like to optimize working process as well. Fighting cargo cults and reducing the number of unnesseray meetings(or sometimes inroducing something new). Here helps my expirience of working in vast number of different companies from small startups to big tech companies with thousands of workers.
 
-Altough I prefer to work on technical issues I am capable of managing people. I am the one who helps team to communicate and not lose focus when team lead is on vacation. Also I have expirience in orginising people to build awesome products(e.g. opensource Google Authentificator replacement [SOTP Authentificator](https://apps.apple.com/us/app/sotp-authenticator/id1526068202))
+Altough I prefer to work on technical issues I am capable of managing people. I am the one who helps team to communicate and not lose focus when team lead is on vacation. Also I have expirience in orginising people to build awesome products. e.g. opensource Google Authentificator replacement [SOTP Authentificator](https://apps.apple.com/us/app/sotp-authenticator/id1526068202)) and flashcard app for memorization [sAnki](https://apps.apple.com/ae/app/sanki-app/id1637674445)
 
 I have been working remotely for more than 12 years and I have good self-organization skills. My employers like that I am a reliable and punctual person.
 
@@ -47,15 +47,19 @@ specialist, Computer Security
 
 ## Experience
 
-### senior backend engineer at Kayzen (June 2022 - present)
+### senior+ backend engineer at Kayzen (June 2022 - present)
 
-I got great expirience working in international team and got the opportunity to take the initiative
+I really enjoy working in an international and multicultural team. It's an amazing experience that enhances both personal growth and team collaboration. Some things that I did here:
 
-- Solved DB perfomance issues
+- Led strategic optimizations of the AWS infrastructure, significantly improving cost-efficiency, reducing latency, enhancing performance
 - Made tests green again by writing scripts that removed crasing tests, fixed as much tests as possible and skiped failed testes.
-- Automated routene tasks(e.g. updating expired keys for 3d party services)
+- Upgraded old, clunky technologies to newer, secure ones. Not only was this a big win for security, but it also made everyone’s work a lot easier.
+- Solved code and database performance issues, speeding up some requests by up to 1000 times
+- Automated routene tasks(e.g. updating expired keys for 3d party services, debugging scripts etc)
+- Thought countless timezone and daylightsaving issues
+- Worked on adding new business features, like the ability to compare different stats over time periods
 
-### senior backend engineer at SberMarket (April 2021 - June 2022)
+### senior+ backend engineer at SberMarket (April 2021 - June 2022)
 
 SberMarket(https://sbermarket.ru) is the biggest e-grocery in Russia with dozens of millions of customers. Therefore it is pretty high-loaded (it's already 500k+ rpm and rapidly growing).
 
@@ -103,10 +107,10 @@ Creating sites, writing desktop applications, writing plugins, fixing bugs in th
 ## Links
 
 - [Actual version of this CV](https://github.com/DrShnitzel/zaitsev_av_cv)
-- [LinkedIn](https://ru.linkedin.com/in/aleksei-zaitsev-6188755b)
+- [LinkedIn](https://linkedin.com/in/aleksei-zaitsev-6188755b)
 - [github](https://github.com/DrShnitzel)
+- [twitter](https://twitter.com/drshnitsel)
 - [instagram](https://www.instagram.com/drshnitzel/)
-- [twitter(RUS)](https://twitter.com/drshnitsel)
 
 ## Contacts
 - email: zaitsev.av.work@gmail.com
